@@ -1,10 +1,8 @@
 # SpringContactApp
-The is part of my Spring Web MVC Framework - "Project Work Series"
-The project "SpringContactApp" is discussed step by step on my YouTube channel.
-Its complete, step-by-step and industry standard.
 
-Refer my YoutTube "Spring Project Work" series from this link : 
-https://www.youtube.com/watch?v=MAiZwI0fJOM&index=1&list=PLLGI5phu9E46Amea05e_EybG1Mebo1ev5
+
+
+
 
 # MOTIVATION
 Writing small-small sample example is different than developing a complete project. 
